@@ -25,7 +25,7 @@ SECRET_KEY = 'jo2+&s-8r#9ilih1n0^z5+#n+2s(5w&0(p(xk$=-g@#7*prqy@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','purplecitrus.pythonanywhere.com']
 
 
 # Application definition
